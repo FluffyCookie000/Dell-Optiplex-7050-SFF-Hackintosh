@@ -3,35 +3,37 @@ Hi, This is my hackitosh using the 7050 SFF!
 There's some hardware changes and minimal plist edits as well some kext changes.
 I was running Ventura for awhile but have moved on to Sequia.
 Wifi and Bluetooth both work using itlwm, if you want native on Sequia you can use AirportItlwm but with spoofing(too lazy to mess with)!
+
+<br>
 MY HARDWARE
 CPU: i7-6700
 GPU: AMD RX 550(Polaris)
 WIFI: Intel 8260NGW
 STORAGE: WD BLUE SA510
-
+<br>
 Added Kexts:
 Itlwn - changed for Sequoia support
 HoRNDIS - For Android 
 New USB Map
-
+<br>
 Opencore Version is still 1.0.4, if the main branch is updated to newer version ill probably update, but as of now everything works fine.
-
+<br>
 <img width="921" height="852" alt="image" src="https://github.com/FluffyCookie000/Dell-Optiplex-7050-SFF-Hackintosh/blob/master/assets/cookieAboutMac.png" />
 
 
 
 -# There would be an image here showing the Optiplex but my desk is to mess :(((
-
+<br>
 This probably still works for MFF and all the other it was compatible for, just make sure to change the USBMap kext for one that matches your device
-
+<br>
 Sleep and Wake work! Wifi and Bluetooth sometimes get stuck after waking, just make sure to turn BOTH Wifi & Bluetooth off before turning them back on again.
-
+<br>
 The rest of this guide should work! Thank you linkev!! 
-
+<br>
 
 <div align="center">
 --------------------------------------
-</div?
+</div>
 
 
  Dell Optiplex 7050 Micro/SFF/MT Hackintosh - OpenCore 1.0.4
