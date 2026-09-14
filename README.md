@@ -42,6 +42,8 @@ Sleep and Wake work! Wifi and Bluetooth sometimes get stuck after waking, just m
 <br>
 The rest of this guide should work! Thank you linkev!! 
 <br>
+So many commits becuase I don't know how to use git properly :)!
+<br>
 
 <div align="center">
 --------------------------------------
