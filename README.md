@@ -3,18 +3,30 @@ Hi, This is my hackitosh using the 7050 SFF!
 There's some hardware changes and minimal plist edits as well some kext changes.
 I was running Ventura for awhile but have moved on to Sequia.
 Wifi and Bluetooth both work using itlwm, if you want native on Sequia you can use AirportItlwm but with spoofing(too lazy to mess with)!
-
+<br>
+<br>
 <br>
 MY HARDWARE
+<br>
 CPU: i7-6700
+<br>
 GPU: AMD RX 550(Polaris)
+<br>
 WIFI: Intel 8260NGW
+<br>
 STORAGE: WD BLUE SA510
 <br>
+<br>
+<br>
 Added Kexts:
+<br>
 Itlwn - changed for Sequoia support
+<br>
 HoRNDIS - For Android 
+<br>
 New USB Map
+<br>
+<br>
 <br>
 Opencore Version is still 1.0.4, if the main branch is updated to newer version ill probably update, but as of now everything works fine.
 <br>
