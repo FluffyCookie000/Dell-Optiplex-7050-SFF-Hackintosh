@@ -15,9 +15,12 @@ HoRNDIS - For Android
 New USB Map
 
 Opencore Version is still 1.0.4, if the main branch is updated to newer version ill probably update, but as of now everything works fine.
-image
-image
--# pardon the messy desk, the back is worse...
+
+<img width="921" height="852" alt="image" src="https://github.com/FluffyCookie000/Dell-Optiplex-7050-SFF-Hackintosh/blob/master/assets/cookieAboutMac.png" />
+
+
+
+-# There would be an image here showing the Optiplex but my desk is to mess :(((
 
 This probably still works for MFF and all the other it was compatible for, just make sure to change the USBMap kext for one that matches your device
 
